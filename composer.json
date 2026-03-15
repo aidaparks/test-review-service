@@ -1,0 +1,17 @@
+{
+    "name": "claire/test-review-service",
+    "autoload": {
+        "psr-4": {
+           "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aidaparks",
+            "email": "sayaf3@yahoo.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
